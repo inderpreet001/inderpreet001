@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inderpreet001&label=Profile%20views&color=0e75b6&style=flat" alt="inderpreet001" /> </p>
 
-- 🔭 I’m currently working on [EmbedAI](https://www.thesamur.ai/)
+- 🔭 I’m currently working on [VadooAI](https://www.vadoo.tv/)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Jest and React testing library**
 
 - 👨‍💻 All of my projects are available at [https://www.inderpreetsingh.co/](https://www.inderpreetsingh.co/)
 
 - 📝 I regularly write articles on [https://www.inderpreetsingh.co/blog](https://www.inderpreetsingh.co/blog)
 
-- 💬 Ask me about **ReactJS, NextJS, LangChain, Webflow, Flask, Android**
+- 💬 Ask me about **ReactJS, NextJS, FastAPI, Webflow, Flask, Android**
 
 - 📫 How to reach me **login.inderpreet@gmail.com**
 
