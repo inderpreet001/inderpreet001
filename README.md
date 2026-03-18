@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on [VadooAI](https://www.vadoo.tv/)
 
-- 🌱 I’m currently learning **Jest and React testing library**
+- 🌱 I’m currently learning **RAG,Langchain**
 
-- 👨‍💻 All of my projects are available at [https://www.inderpreetsingh.co/](https://www.inderpreetsingh.co/)
+- 📝 I regularly write articles on [https://medium.com/@inderpreet_singh](https://medium.com/@inderpreet_singh)
 
-- 📝 I regularly write articles on [https://www.inderpreetsingh.co/blog](https://www.inderpreetsingh.co/blog)
-
-- 💬 Ask me about **ReactJS, NextJS, FastAPI, Webflow, Flask, Android**
+- 💬 Ask me about **AI,Product development**
 
 - 📫 How to reach me **login.inderpreet@gmail.com**
 
